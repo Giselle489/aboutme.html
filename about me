@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <title> Giselle's About Me Page
+ </title> 
+</head>
+<body>
+<h2> Giselle 
+</h2>
+<ol>
+  <li>A-day class 1: AP US HISTORY</li>
+  <li>A-day class 2: INTERNET CONCEPTS</li>
+  <li>A-day class 3: HONORS ENGLISH</li>
+  <li>A-day class 4: SPANISH 1</li>
+  <li>B-day class 1: TEAM SPORTS</li>
+  <li>B-day class 2: INTERNET CONCEPTS</li>
+  <li>B-day class 3: CHEMISTRY</li>
+  <li>B-day class 4: HONORS GEOMETRY</li>
+</ol>
+<ul>
+  <li>Traveling</li>
+  <li>Learning new languages</li>
+  <li>Reading</li>
+</ul>
+</body>
+</html>
